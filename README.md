@@ -1,2 +1,2 @@
 # SpringboardML
-A repo for the Springboard Machine Learning Course
+A repo containing the exercises I completed for the Springboard Machine Learning Course
